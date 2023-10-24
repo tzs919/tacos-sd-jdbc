@@ -1,7 +1,7 @@
 #server:
 #  port: 8443
 #  ssl:
-#    key-store: classpath:mykeys.jks
+#    key-store: classpath:mykeys.p12
 #    key-store-password: letmein
 #    key-password: letmein
 spring:

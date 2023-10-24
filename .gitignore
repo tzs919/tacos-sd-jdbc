@@ -1,6 +1,6 @@
 # Java class files
 *.class
-**/mykeys.jks
+**/mykeys.p12
 
 # Eclipse project files
 .classpath
