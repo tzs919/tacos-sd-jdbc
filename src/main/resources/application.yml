@@ -26,6 +26,6 @@ spring:
 #  level:
 #    root: WARN
 #    org:
-#      Springframework:
+#      springframework:
 #        security: DEBUG
 #    org.springframework.security: DEBUG
